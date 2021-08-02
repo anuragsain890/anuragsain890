@@ -27,3 +27,21 @@
  </code>
  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="LOGO" width="30px" height="30px" title="Structured Query Language"></code> 
 </div>
+ <br />
+
+<div align="right"><b>Framework, Libraries and Tools</b>
+<br>
+ <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React_LOGO" width="35px" height="35px" title="React"> </code>
+ <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="LOGO" width="30px" height="30px" title="Bootstrap">
+ </code> 
+ <code><img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-logomark-320px.png" alt="LOGO" width="30px" height="30px" title="Flutter">
+ </code>
+ <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="LOGO" width="30px" height="30px" title="Java"> 
+ </code>
+ <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="LOGO" width="30px" height="30px" title="Git">
+ </code>
+ <code><img src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" alt="LOGO" width="30px" height="30px" title="GitHub"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="LOGO" width="30px" height="30px" title="Nodejs"></code>
+<code><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="LOGO" width="30px" height="30px" title="VS Code"></code>
+
+</div>
