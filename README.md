@@ -36,9 +36,7 @@
  </code> 
  <code><img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-logomark-320px.png" alt="LOGO" width="30px" height="30px" title="Flutter">
  </code>
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="LOGO" width="30px" height="30px" title="Java"> 
- </code>
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="LOGO" width="30px" height="30px" title="Git">
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="LOGO" width="30px" height="30px" title="Git">
  </code>
  <code><img src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" alt="LOGO" width="30px" height="30px" title="GitHub"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="LOGO" width="30px" height="30px" title="Nodejs"></code>
