@@ -3,7 +3,8 @@
 - 🐱‍🚀 I’m currently learning Full Stack Dev<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React Logo" height="17px" width="17" />
   <br>and Flutter <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-logomark-320px.png " height="17" width="17" alt="Flutter_LOGO" />
 - 📫 Connect me on <a href="https://www.linkedin.com/in/anurag-307677214/">
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="20px" alt="LinkedIn_LOGO" title="LinkedIN" /></a>
+  <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="20px" alt="LinkedIn_LOGO" title="LinkedIN" /></a>
+
   <br />
   <br />
 
